@@ -1,15 +1,15 @@
 ---
 title: "Variable Ordering for Decision Diagrams: A Portfolio Approach"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: 'https://www.andrew.cmu.edu/user/vanhoeve/papers/DD_Portfolio_CPAIOR2021.pdf'
+excerpt: 'We compare the performance of different portfolios of variable orderings on an algorithm that uses decision diagrams to compute lower bounds on the chromatic number of a graph'
+date: 2021-07-17
+venue: 'CPAIOR 2021'
+paperurl: 'https://www.andrew.cmu.edu/user/vanhoeve/papers/DD_Portfolio_CPAIOR2021.pdf'
+citation: 'Karahalios and van-Hoeve (2021). &quot;Variable Ordering for Decision Diagrams.&quot; <i>CPAIOR 2021</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Abstract. Relaxed decision diagrams have been successfully applied to solve combinatorial optimization problems, but their performance is known to strongly depend on the variable ordering. We propose a port- folio approach to selecting the best ordering among a set of alternatives. We consider several different portfolio mechanisms: an offline predic- tive model of the single best algorithm using classifiers, an online low- knowledge algorithm selection, a static uniform time-sharing portfolio, and a dynamic online time allocator. As a case study, we compare and contrast their performance on the graph coloring problem. We find that on this problem domain, the dynamic online time allocator provides the best overall performance.
 
-#[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+#[Download paper here](https://www.andrew.cmu.edu/user/vanhoeve/papers/DD_Portfolio_CPAIOR2021.pdf')
 
 #Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
