@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: "Welcome!"
+title: "Everything can be optimized"
+excerpt: "Everything can be optimized"
 author_profile: true
 redirect_from: 
   - /about/
