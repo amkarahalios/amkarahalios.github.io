@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics and Statistics, Johns Hopkins University, 2017
+* Pursuing a Ph.D in Operations Research / ACO, Carnegie Mellon University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2020: Quantitative Developer
+  * Marshall Wace Asset Management
+  * Projects: Custodian Optimizer, Locate Optimizer, Trade Condition Codes
+  * Supervisor: Nick Nielsen and Jacob Cotton
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding (C++/Python/MATLAB/R, Linux)
+* Optimization Software (Gurobi/Mosek/Cplex/Pulp)
 
 Publications
 ======
@@ -56,4 +46,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2021: INFORMS CMU Student Chapter Vice President
+* 2021: SCS Coffee Chats Team
