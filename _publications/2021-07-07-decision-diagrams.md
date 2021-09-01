@@ -1,7 +1,7 @@
 ---
 title: "Variable Ordering for Decision Diagrams: A Portfolio Approach"
 collection: publications
-permalink: '/publications/2021-07-17-cpaior-decision-diagrams/
+permalink: '/publications/2021-07-17-decision-diagrams/
 excerpt: 'We compare the performance of different portfolios of variable orderings on an algorithm that uses decision diagrams to compute lower bounds on the chromatic number of a graph'
 date: 2021-07-17
 venue: 'CPAIOR 2021'
