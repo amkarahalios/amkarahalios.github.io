@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page. I am currently working on my 1st Year Summer Paper, one of the first milestones to receiving a Tepper PhD. I am working with Professor Willem-Jan van Hoeve on an algorithm that uses decision diagrams to find the chromatic number of a graph.
+Welcome to my home page. I am a 2nd year PhD student at Carnegie Mellon University working with Professor Willem-Jan van Hoeve.
 
-My research interests are mainly in combinatorial optimization and integer programming.
+My research interests are mainly in combinatorial optimization and integer programming. Recently I have been working with decision diagrams.
 
-My hobbies include chess, dance, sports, poetry, and piano.
+My hobbies include chess, dance, poetry, athletics, and piano.
 
 Thanks for visiting! Feel free to reach out!

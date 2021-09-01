@@ -9,12 +9,3 @@ location: "Pittsburgh, PA"
 ---
 
 TA for MBA Math Bootcamp focusing on Calculus and Probability
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
