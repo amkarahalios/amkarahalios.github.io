@@ -1,2 +1,11 @@
 title	type	url_slug	venue	date	location	talk_url	description
 Variable Ordering for Decision Diagrams: A Portfolio Approach	Talk	cpaior-dd	CPAIOR	2021-07-07	Virtual	https://www.youtube.com/watch?v=qGrsh6AWldQ	Studying the use of portfolios of variable orderings on the performance of a decision diagram based algorithm for finding graph coloring lower bounds
+Graph Coloring With Decision Diagrams: An Analysis Of
+Variable Ordering	Talk	informs-dd	INFORMS Annual Conference	2021-10-25	Anaheim, CA	_	A decision diagram approach was recently introduced to generate lower bounds
+for the graph coloring problem. It uses compilation via iterative refinement,
+which requires a variable ordering to be specified in advance. Oftentimes no
+single variable ordering dominates all others for a set of problem instances. This
+work provides an analysis and experimental evaluation of different variable
+ordering strategies including using portfolios of variable orderings.
+Graph Coloring using Decision Diagrams with Zykov Branching	Talk	ics-dd	INFORMS Computing Society Conference	2022-01-25	Tampa Bay, FL	_	A recent work by van Hoeve introduced a decision diagram based iterative refinement algorithm for
+finding multi-path solutions to optimization problems. We study the addition of branch and bound to this algorithm, including the well-known Zykov branching rule for graph coloring.
