@@ -23,8 +23,8 @@ Work experience
 
 Skills
 ======
-* Coding (C++/Python/MATLAB/R, Linux)
-* Optimization Software (Gurobi/Mosek/Cplex/Pulp)
+* Coding (C++/Python/MATLAB/R/Julia, Linux)
+* Optimization Software (Gurobi/Mosek/Cplex/PuLP)
 
 Publications
 ======
@@ -48,3 +48,6 @@ Service and leadership
 ======
 * 2021: INFORMS CMU Student Chapter Vice President
 * 2021: SCS Coffee Chats Team
+* 2022: Optimizing You Podcast Host
+* 2022: Decision Diagram Journal Club Organizer
+* 2022: ACO/OR Meet-And-Thinks Organizer
