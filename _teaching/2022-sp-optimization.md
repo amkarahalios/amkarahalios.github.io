@@ -1,5 +1,5 @@
 ---
-title: "45-751 Optimization (MBA)"
+title: "45-751 Optimization (MBA) Spring 2022"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2022-sp-optimization
