@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page. I am a 2nd year PhD student at Carnegie Mellon University working with Professor Willem-Jan van Hoeve. I recently passed my qualifying exams!
+Welcome to my home page. I am a 2nd year PhD student at Carnegie Mellon University working with Professor Willem-Jan van Hoeve. I recently passed my qualifying exams! I was also recently awarded the NSF GRFP!
 
 My research interests are mainly in combinatorial optimization and integer programming. I have been working on using decision diagrams to solve the graph coloring problem.
 
