@@ -10,8 +10,8 @@ redirect_from:
 
 Hi - you can call me Anthony. I started my PhD in Fall 2020 at Carnegie Mellon University. I am very fortunate to be advised by the wonderful Professor Willem-Jan van Hoeve. I was recently awarded an NSF GRFP!
 
-I can breakdown my research interests into methodologies and applications. For methodologies, I study combinatorial optimization, integer programming, and dynamic programming (decision diagrams). For applications, I study Graph Coloring, Scheduling, and Vehicle Routing Problems.
+I can breakdown my research interests into methodologies and applications. For methodologies, I study Combinatorial Optimization, Integer Programming, and Dynamic Programming (Decision Diagrams). For applications, I study Graph Coloring, Scheduling, and Vehicle Routing Problems.
 
-My hobbies include chess, dance, poetry, athletics, and piano.
+My hobbies include [chess](https://www.chess.com/member/anthonykarahalios), [dance](https://www.youtube.com/watch?v=cbIy6a7k4do), [poetry](https://www.poetryfoundation.org/poems/46446/still-i-rise), [athletics](https://runsignup.com/Race/Results/52448#resultSetId-281040;perpage:100), [podcasting](https://www.buzzsprout.com/1890697), and [piano](https://www.youtube.com/user/amkarahalios).
 
 Thanks for visiting! Feel free to reach out!
