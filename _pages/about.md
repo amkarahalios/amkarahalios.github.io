@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi - you can call me Anthony. I started my PhD in Fall 2020 at Carnegie Mellon University. I am in the [Algorithms, Combinatorics, and Optimizatino (ACO) program](https://aco.math.cmu.edu/). I am very fortunate to be advised by the wonderful [Professor Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html). I was recently awarded an NSF GRFP!
+Hi - you can call me Anthony. I started my PhD in Fall 2020 at Carnegie Mellon University. I am in the [Algorithms, Combinatorics, and Optimizatino (ACO) program](https://aco.math.cmu.edu/). I am very fortunate to be advised by the wonderful [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html). I was recently awarded an NSF GRFP!
 
 I can breakdown my research interests into methodologies and applications. For methodologies, I study Combinatorial Optimization, Integer Programming, and Dynamic Programming (Decision Diagrams). For applications, I study Graph Coloring, Scheduling, and Vehicle Routing Problems.
 
