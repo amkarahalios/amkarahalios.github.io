@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page. I am a 2nd year PhD student at Carnegie Mellon University working with Professor Willem-Jan van Hoeve. I recently passed my qualifying exams! I was also recently awarded the NSF GRFP!
+Welcome to my home page. I started my PhD student at Carnegie Mellon University in Fall 2020. I am very fortunate to be advised by the wonderful Professor Willem-Jan van Hoeve. I was also recently awarded the NSF GRFP!
 
-My research interests are mainly in combinatorial optimization and integer programming. I have been working on using decision diagrams to solve the graph coloring problem.
+My research interests for methodology are combinatorial optimization, integer programming, and dynamic programming (decision diagrams). Applications that I study include Graph Coloring, Scheduling, and Vehicle Routing Problems.
 
 My hobbies include chess, dance, poetry, athletics, and piano.
 
