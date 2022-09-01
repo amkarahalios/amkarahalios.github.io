@@ -53,6 +53,7 @@ Service and leadership
 ======
 * 2021: INFORMS CMU Student Chapter Vice President
 * 2021: SCS Coffee Chats Team
+
 * 2022: Optimizing You Podcast Host
 * 2022: Decision Diagram Journal Club Organizer
 * 2022: ACO/OR Meet-And-Thinks Organizer
