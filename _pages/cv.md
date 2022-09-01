@@ -59,5 +59,3 @@ Service and leadership
 * 2022: ACO/OR Meet-And-Thinks Organizer
 * 2022: [INFORMS CMU Student Chapter](https://cmuinforms.org/) President
 * 2022: [YinzOR 2022](https://yinzor.cmuinforms.org/) Co-Chair
-
-Hi - you can call me Anthony. I started my PhD in Fall 2020 at Carnegie Mellon University. I am in the [Algorithms, Combinatorics, and Optimization (ACO) program](https://aco.math.cmu.edu/). I am very fortunate to be advised by the wonderful [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html). I was recently awarded an NSF GRFP!
