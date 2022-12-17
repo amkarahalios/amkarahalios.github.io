@@ -53,9 +53,11 @@ Service and leadership
 ======
 * 2021: INFORMS CMU Student Chapter Vice President
 * 2021: SCS Coffee Chats Team
+* 2021: ACO/OR Meet-And-Thinks Founder and Organizer
 
 * 2022: [Optimizing You Podcast](https://www.buzzsprout.com/1890697/episodes) Host
 * 2022: Decision Diagram Journal Club Organizer
-* 2022: ACO/OR Meet-And-Thinks Organizer
 * 2022: [INFORMS CMU Student Chapter](https://cmuinforms.org/) President
 * 2022: [YinzOR 2022](https://yinzor.cmuinforms.org/) Co-Chair
+* 2022: INFORMS Annual Meeting Session Chair: Decision Diagrams for Optimization
+* 2022: OR Seminar Coordinator
