@@ -6,8 +6,8 @@ excerpt: 'We present an exact algorithm for graph coloring and maximum clique pr
 technology.'
 date: 2022-07-04
 venue: 'Constraint Programming 2022'
-paperurl: 'http://www.contrib.andrew.cmu.edu/~vanhoeve/papers/cliques_coloring_CP2022.pdf'
-#citation: '(2022). &quot;Variable Ordering for Decision Diagrams.&quot; <i>Constraints 2022</i>.'
+paperurl: 'https://drops.dagstuhl.de/opus/volltexte/2022/16655/pdf/LIPIcs-CP-2022-26.pdf'
+citation: 'Heule, Marijn JH, Anthony Karahalios, and Willem-Jan van Hoeve (2022). &quot;From Cliques to Colorings and Back Again.&quot; <i>Constraints 2022</i>.'
 ---
 Abstract. We present an exact algorithm for graph coloring and maximum clique problems based on SAT
 technology. It relies on four sub-algorithms that alternatingly compute cliques of larger size and
@@ -18,4 +18,4 @@ algorithm can improve the state-of-the-art MaxSAT-based solver IncMaxCLQ, and fo
 coloring problem, we close two open instances, decrease two upper bounds, and increase one lower
 bound.
 
-#[Download paper here](http://www.contrib.andrew.cmu.edu/~vanhoeve/papers/cliques_coloring_CP2022.pdf)
+#[Download paper here](https://drops.dagstuhl.de/opus/volltexte/2022/16655/pdf/LIPIcs-CP-2022-26.pdf)
