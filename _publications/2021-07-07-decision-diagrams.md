@@ -2,7 +2,7 @@
 title: "Variable Ordering for Decision Diagrams: A Portfolio Approach"
 collection: publications
 permalink: '/publications/2022-01-04-decision-diagrams/'
-excerpt: 'We compare the performance of different portfolios of variable orderings on an algorithm that uses decision diagrams to compute lower bounds on the chromatic number of a graph'
+excerpt: 'We compare the performance of different portfolios of variable orderings on an algorithm that uses decision diagrams to compute lower bounds on the chromatic number of a graph.'
 date: 2022-01-04
 venue: 'Constraints 2022'
 paperurl: 'https://link.springer.com/article/10.1007/s10601-021-09325-6'
