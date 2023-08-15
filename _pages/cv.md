@@ -15,21 +15,15 @@ Education
 * M.S. in Algorithms, Combinatorics, and Optimization (ACO), Carnegie Mellon University, 2022
 * B.S. in Applied Mathematics and Statistics, Johns Hopkins University, 2017
 
-Work experience
-======
-* 2020-2021: Freelancer
-  * Upwork.com
-  * Projects: Scheduling courses at a university, scheduling large projects for construction companies
-
-* 2017-2020: Quantitative Developer
-  * Marshall Wace Asset Management
-  * Projects: Custodian Optimizer, Locate Optimizer, Trade Condition Codes
-  * Supervisor: Nick Nielsen and Jacob Cotton
-
-Skills
-======
-* Coding (C++/Python/MATLAB/R/Julia, Linux)
-* Optimization Software (Gurobi/Mosek/CPLEX/PuLP)
+Awards
+=====
+IPCO Poster Competition Honorable Mention (2023)
+CPAIOR Best Student Paper (2023)
+National Science Foundation Graduate Research Fellowship (2022)
+Carnegie Mellon University Egon Balas Fellowship (2020)
+JHU Applied Mathematics and Statistics Achievement Award (2017)
+JHU Mathematical Modeling Prize (2016,2017)
+JHU Professor Joel Dean Award for Excellence in Teaching (2016,2017)
 
 Publications
 ======
@@ -41,12 +35,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
@@ -61,3 +49,25 @@ Service and leadership
 * 2022: [YinzOR 2022](https://yinzor.cmuinforms.org/) Co-Chair
 * 2022: INFORMS Annual Meeting Session Chair: Decision Diagrams for Optimization
 * 2022: OR Seminar Coordinator
+
+Work experience
+======
+* 2020-2021: Freelancer
+  * Upwork.com
+  * Projects: Scheduling courses at a university, scheduling large projects for construction companies
+
+* 2017-2020: Quantitative Developer
+  * Marshall Wace Asset Management
+  * Projects: Custodian Optimizer, Locate Optimizer, Trade Condition Codes
+  * Supervisor: Nick Nielsen and Jacob Cotton
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Skills
+======
+* Coding (C++/Python/MATLAB/R/Julia, Linux)
+* Optimization Software (Gurobi/Mosek/CPLEX/PuLP)
