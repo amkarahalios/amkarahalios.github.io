@@ -1,5 +1,5 @@
 ---
-title: "70-460 Mathematical Models for Consulting (Undergrad) Fall 2022"
+title: "70-460 Mathematical Models for Consulting Fall 2022 (Undergrad) (Instructor)"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2022-fall-teaching-1
