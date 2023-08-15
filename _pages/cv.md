@@ -17,13 +17,13 @@ Education
 
 Awards
 =====
-IPCO Poster Competition Honorable Mention (2023)
-CPAIOR Best Student Paper (2023)
-National Science Foundation Graduate Research Fellowship (2022)
-Carnegie Mellon University Egon Balas Fellowship (2020)
-JHU Applied Mathematics and Statistics Achievement Award (2017)
-JHU Mathematical Modeling Prize (2016,2017)
-JHU Professor Joel Dean Award for Excellence in Teaching (2016,2017)
+* IPCO Poster Competition Honorable Mention (2023)
+* CPAIOR Best Student Paper (2023)
+* National Science Foundation Graduate Research Fellowship (2022)
+* Carnegie Mellon University Egon Balas Fellowship (2020)
+* JHU Applied Mathematics and Statistics Achievement Award (2017)
+* JHU Mathematical Modeling Prize (2016,2017)
+* JHU Professor Joel Dean Award for Excellence in Teaching (2016,2017)
 
 Publications
 ======
