@@ -30,42 +30,50 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* 2021: INFORMS CMU Student Chapter Vice President
-* 2021: SCS Coffee Chats Team
-* 2021: ACO/OR Meet-And-Thinks Founder and Organizer
-
-* 2022: [Optimizing You Podcast](https://www.buzzsprout.com/1890697/episodes) Host
-* 2022: Decision Diagram Journal Club Organizer
-* 2022: [INFORMS CMU Student Chapter](https://cmuinforms.org/) President
-* 2022: [YinzOR 2022](https://yinzor.cmuinforms.org/) Co-Chair
-* 2022: INFORMS Annual Meeting Session Chair: Decision Diagrams for Optimization
-* 2022: OR Seminar Coordinator
-
-Work experience
-======
-* 2020-2021: Freelancer
-  * Upwork.com
-  * Projects: Scheduling courses at a university, scheduling large projects for construction companies
-
-* 2017-2020: Quantitative Developer
-  * Marshall Wace Asset Management
-  * Projects: Custodian Optimizer, Locate Optimizer, Trade Condition Codes
-  * Supervisor: Nick Nielsen and Jacob Cotton
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Service and leadership
+======
+* IJOC Reviewer (2023)
+* CP Reviewer (2022)
+* CPAIOR Reviewer (2021)
+
+* INFORMS Annual Meeting Session Chair: Decision Diagrams for Optimization (2022,2023)
+
+* [Optimizing You Podcast](https://www.buzzsprout.com/1890697/episodes) Host (2022-)
+* Decision Diagram Journal Club Organizer (2022)
+* [INFORMS CMU Student Chapter](https://cmuinforms.org/) President (2022), VP (2021)
+* [YinzOR 2022](https://yinzor.cmuinforms.org/) Co-Chair (2022), Sponsorship Chair (2023)
+* OR Seminar Coordinator (2022-)
+* SCS Coffee Chats Matching Algorithm Developer (2021)
+* ACO/OR Meet-And-Thinks Founder and Organizer (2021)
+
+Mentorship
+======
+* Chongzhi Wang (CMU Undergraduate Math Student) (Summer 2023)
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Work experience
+======
+* 2020-2023: Freelancer/Consultant
+  * LogixHealth
+  * Frontline
+  * Upwork.com
+
+* 2017-2020: Quantitative Developer
+  * Marshall Wace Asset Management
+  * Projects: Custodian Optimizer, Locate Optimizer, Trade Condition Codes
+  * Supervisor: Nick Nielsen and Jacob Cotton
 
 Skills
 ======
