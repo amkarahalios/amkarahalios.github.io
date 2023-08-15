@@ -15,7 +15,7 @@ Education
 * M.S. in Algorithms, Combinatorics, and Optimization (ACO), Carnegie Mellon University, 2022
 * B.S. in Applied Mathematics and Statistics, Johns Hopkins University, 2017
 
-Awards
+Honors/Awards
 =====
 * IPCO Poster Competition Honorable Mention (2023)
 * CPAIOR Best Student Paper (2023)
