@@ -53,9 +53,9 @@ Service and leadership
 * SCS Coffee Chats Matching Algorithm Developer (2021)
 * ACO/OR Meet-And-Thinks Founder and Organizer (2021)
 
-Mentorship
+Undergraduate Student Supervision
 ======
-* Chongzhi Wang (CMU Undergraduate Math Student) (Summer 2023)
+* Chongzhi Wang - CMU Math (Summer 2023)
 
 Talks
 ======
