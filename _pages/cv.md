@@ -39,17 +39,18 @@ Teaching
 
 Service and leadership
 ======
-* IJOC Reviewer (2023)
-* CP Reviewer (2022)
+* CP Junior PC Member (2024)
+* IJOC Reviewer (2023,2024)
+* CP Reviewer (2022,2024)
 * CPAIOR Reviewer (2021)
 
-* INFORMS Annual Meeting Session Chair: Decision Diagrams for Optimization (2022,2023)
+* INFORMS Annual Meeting Session Chair: Decision Diagrams for Optimization (2022,2023,2024)
 
 * [Optimizing You Podcast](https://www.buzzsprout.com/1890697/episodes) Host (2022-)
 * Decision Diagram Journal Club Organizer (2022)
 * [INFORMS CMU Student Chapter](https://cmuinforms.org/) President (2022), VP (2021)
-* [YinzOR 2022](https://yinzor.cmuinforms.org/) Co-Chair (2022), Sponsorship Chair (2023)
-* OR Seminar Coordinator (2022-)
+* [YinzOR 2022](https://yinzor.cmuinforms.org/) Co-Chair (2022), Sponsorship Chair (2023,2024)
+* OR Seminar Coordinator (2022,2023)
 * SCS Coffee Chats Matching Algorithm Developer (2021)
 * ACO/OR Meet-And-Thinks Founder and Organizer (2021)
 
@@ -65,7 +66,13 @@ Talks
 
 Work experience
 ======
-* 2020-2023: Freelancer/Consultant
+* 2024: Research Intern
+  * Amazon
+  * Projects: Algorithms in Amazon Robotics Fulfillment Centers
+  * Supervisor: Kay Zheng
+
+* 2020-2024: Freelancer/Consultant
+  * Wallet Warrior
   * LogixHealth
   * Frontline
   * Upwork.com
