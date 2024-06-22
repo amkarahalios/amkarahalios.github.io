@@ -84,5 +84,5 @@ Work experience
 
 Skills
 ======
-* Coding (C++/Python/MATLAB/R/Julia, Linux)
-* Optimization Software (Gurobi/Mosek/CPLEX/PuLP)
+* Coding (C++/Python/MATLAB/R/Julia/SQL, Linux)
+* Optimization Software (Gurobi/Mosek/CPLEX/PuLP/Hexaly)
