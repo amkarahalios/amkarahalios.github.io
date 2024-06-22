@@ -74,6 +74,7 @@ Work experience
 * 2020-2024: Freelancer/Consultant
   * Wallet Warrior
   * LogixHealth
+  * Sunlife Insurance
   * Frontline
   * Upwork.com
 
