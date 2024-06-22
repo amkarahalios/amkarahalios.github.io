@@ -68,7 +68,7 @@ Work experience
 ======
 * 2024: Research Intern
   * Amazon
-  * Projects: Algorithms in Amazon Robotics Fulfillment Centers
+  * Projects: Picking Algorithms in Amazon Robotics Fulfillment Centers
   * Supervisor: Kay Zheng
 
 * 2020-2024: Freelancer/Consultant
