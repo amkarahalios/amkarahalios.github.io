@@ -4,7 +4,7 @@ collection: publications
 permalink: '/publications/2024-06-18-first-responder/'
 excerpt: 'We introduce the First Responder Network Design Problem (FRNDP) and solve it using a novel hybrid quantum-classical heuristic building on the Graver Augmented Multiseed Algorithm (GAMA).'
 date: 2024-06-18
-venue: 'Submitted but not yet published'
+venue: 'Accepted to IJOC'
 paperurl: 'https://arxiv.org/abs/2401.12463'
 citation: 'Karahalios, Anthony, et al. "A Quantum Inspired Bi-level Optimization Algorithm for the First Responder Network Design Problem." arXiv preprint arXiv:2401.12463 (2024).'
 ---
