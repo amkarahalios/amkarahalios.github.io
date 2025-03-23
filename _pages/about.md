@@ -26,9 +26,9 @@ Side-projects:
 
 My skills:
 1. Optimization
-   - Coursework in Linear Programming, Integer Programming, Convex Optimization, Constraint Programming, Algorithms, Discrete Mathemaics, SAT solvers, Extremal Combinatorics
+   - Coursework in Linear Programming, Integer Programming, Convex Optimization, Constraint Programming, Algorithms, Discrete Mathemaics, SAT solvers, Extremal Combinatorics.
 2. Optimization Software
-   - Experience with Gurobi, Hexaly, CPLEX, XPRESS, PuLP, Mosek, SAT solvers, CP solvers, VRP solvers
+   - Experience with Gurobi, Hexaly, CPLEX, XPRESS, PuLP, Mosek, SAT solvers, CP solvers, VRP solvers.
 3. Software Development
    - Proficient in C++ and Python, familiar with Java, C#, MATLAB, Julia, R.
 
@@ -40,10 +40,10 @@ Some awards:
 5. Sigma Chi International Balfour Award Finalist (2017)
 
 Fun things:
-1. I host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697)
+1. I host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
 2. I was involved with a charity called the [All Stars Project Development School for Youth](https://allstars.org/our-work/programs/development-school-for-youth/).
-3. I work as a freelancer on [Upwork.com](https://www.upwork.com/freelancers/~019b8adcf84c4cd492?mp_source=share)
-4. I was president of the [CMU INFORMS Student Chapter](https://cmuinforms.org/) and chair of [YinzOR 2022](https://yinzor.cmuinforms.org/program/)
+3. I work as a freelancer on [Upwork.com](https://www.upwork.com/freelancers/~019b8adcf84c4cd492?mp_source=share).
+4. I was president of the [CMU INFORMS Student Chapter](https://cmuinforms.org/) and chair of [YinzOR 2022](https://yinzor.cmuinforms.org/program/).
 
 I am graduating soon! Checkout my [CV](https://amkarahalios.github.io/files/CV.pdf) to see if I am a good fit for your school or company.
 
