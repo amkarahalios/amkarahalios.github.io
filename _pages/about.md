@@ -18,27 +18,6 @@ My journey:
 3. Ph.D in Algorithms, Combinatorics, and Optimization (2020 - expected May 2025)
    - Developed a novel discrete optimization method that performs well on large-scale vehicle routing problems. I am advised by [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html).
 
-Side-projects:
-1. An algorithm that uses SAT to solve vertex coloring problems.
-2. A quantum-inspired algorithm to solve a humanitarian logistics network design problem.
-3. A dyadic linear programming solver.
-4. An exact method for solving a multi-objective parts-to-picker problem in Amazon Robotics warehouses.
-
-My skills:
-1. Optimization
-   - Coursework in Linear Programming, Integer Programming, Convex Optimization, Constraint Programming, Algorithms, Discrete Mathemaics, SAT solvers, Extremal Combinatorics.
-2. Optimization Software
-   - Experience with Gurobi, Hexaly, CPLEX, XPRESS, PuLP, Mosek, SAT solvers, CP solvers, VRP solvers.
-3. Software Development
-   - Proficient in C++ and Python, familiar with Java, C#, MATLAB, Julia, R.
-
-Some awards:
-1. CPAIOR Best Student Paper (2023)
-2. IPCO Best Poster Honorable Mention (2023)
-3. NSF Graduate Research Fellowship (2022)
-4. JHU Professor Joel Dean Award for Excellence in Teaching (2016,2017)
-5. Sigma Chi International Balfour Award Finalist (2017)
-
 Fun things:
 1. I host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
 2. I was involved with a charity called the [All Stars Project Development School for Youth](https://allstars.org/our-work/programs/development-school-for-youth/).
