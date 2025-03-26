@@ -14,7 +14,7 @@ My journey:
 1. B.S. in Applied Mathematics and Statistics from Johns Hopkins University (2014-2017)
    - Solved umpire crew scheduling problems for Minor League Baseball.
 2. Quantiative Developer for Marshall Wace (2017-2020)
-   - Worked on an automated trading system and built a treasury optimization system.
+   - Built a treasury optimization system and improved the automated trading system.
 3. Ph.D in Algorithms, Combinatorics, and Optimization from Carnegie Mellon University (2020 - expected May 2025)
    - Developed a novel discrete optimization method that performs well on large-scale vehicle routing problems. I am advised by [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html).
 
