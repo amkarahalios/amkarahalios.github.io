@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to my full [CV](https://amkarahalios.github.io/files/CV.pdf).
+Here is a link to my [Curriculum Vitae](https://amkarahalios.github.io/files/CV.pdf).

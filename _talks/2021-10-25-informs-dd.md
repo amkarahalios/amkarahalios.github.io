@@ -8,10 +8,3 @@ venue: "INFORMS Annual Conference"
 date: 2021-10-25
 location: "Anaheim, CA"
 ---
-
-A decision diagram approach was recently introduced to generate lower bounds
-for the graph coloring problem. It uses compilation via iterative refinement,
-which requires a variable ordering to be specified in advance. Oftentimes no
-single variable ordering dominates all others for a set of problem instances. This
-work provides an analysis and experimental evaluation of different variable
-ordering strategies including using portfolios of variable orderings.
