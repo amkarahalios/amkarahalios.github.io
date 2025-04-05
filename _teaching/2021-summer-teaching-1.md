@@ -7,5 +7,3 @@ venue: "Carnegie Mellon University, Tepper School of Business"
 date: 2021-08-18
 location: "Pittsburgh, PA"
 ---
-
-TA for MBA Math Bootcamp focusing on Calculus and Probability.
