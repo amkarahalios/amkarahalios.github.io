@@ -16,7 +16,7 @@ My journey:
 2. Quantiative Developer for Marshall Wace (2017-2020)
    - Built a treasury optimization system and improved the automated trading system.
 3. Ph.D in Algorithms, Combinatorics, and Optimization from Carnegie Mellon University (2020 - expected May 2025)
-   - Developed a novel discrete optimization method that performs well on large-scale vehicle routing problems. I am advised by [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html). [Here](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx) are slides from my dissertation defense.
+   - Developed a novel discrete optimization method that performs well on large-scale vehicle routing problems. I am advised by [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html). These are the [slides](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx) from my dissertation defense.
 
 Fun things:
 1. I host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
