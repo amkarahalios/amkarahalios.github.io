@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi - my name is Anthony Karahalios. I am an Operations Research scientist. I enjoy researching optimization methodologies, teaching optimization, and writing software that uses optimization to solve real-world problems.
+I am an Operations Research scientist and software developer. I enjoy researching optimization methodologies, teaching optimization, and writing software that uses optimization to solve real-world problems.
 
 My journey:
 1. B.S. in Applied Mathematics and Statistics from Johns Hopkins University (2014-2017)
