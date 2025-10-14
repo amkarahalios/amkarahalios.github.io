@@ -15,6 +15,7 @@ My journey:
    - Solving MIPs for Supply Chain design problems.
 2. Ph.D in Algorithms, Combinatorics, and Optimization from Carnegie Mellon University's Tepper School of Business (2020-2025)
    - Researched models and methods for solving discrete optimization problems. I was advised by the amazing [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html). [Dissertation slides](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx).
+   - Supported by the NSF Graduate Research Fellowship Program
 3. Quantiative Developer for Marshall Wace Asset Management (2017-2020)
    - Built a treasury optimization system and improved the automated trading system.
 4. B.S. in Applied Mathematics and Statistics from Johns Hopkins University (2014-2017)
@@ -35,7 +36,7 @@ My research:
 Fun things:
 1. I host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
 2. I won a charity competition at Marshall Wace to support the [All Stars Project Development School for Youth](https://allstars.org/our-work/programs/development-school-for-youth/).
-3. I work as a freelancer solving optimization problems on [Upwork.com](https://www.upwork.com/freelancers/~019b8adcf84c4cd492?mp_source=share).
+3. I work as a freelancer solving optimization problems on [Upwork.com](https://www.upwork.com/freelancers/~019b8adcf84c4cd492?mp_source=share). Some projects involved staffing nurses in hospitals, scheduling youth basketball leagues, and planning construction projects!
 4. I am a former president of the [CMU INFORMS Student Chapter](https://cmuinforms.org/) and former chair of the student-run [YinzOR Conference](https://yinzor.cmuinforms.org/program/).
 5. I am a former president of the [Hopkins Undergraduate Society of Applied Mathematics](https://engineering.jhu.edu/ams/academics/undergraduate-studies/hopkins-undergraduate-society-for-applied-mathematics-husam/).
 6. I am a math tutor for local high school students.
