@@ -8,17 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am an Operations Research scientist and software developer. I enjoy researching optimization methodologies, teaching optimization, and writing software that uses optimization to solve real-world problems. In particular, I am interested in comparing and constrasting the performance of different models and methods for solving discrete optimization problems.
+I am an Operations Research scientist and software developer. I enjoy researching optimization methodologies, teaching optimization courses, and writing software that uses optimization to solve real-world problems. 
 
 My journey:
 1. MIP Engineer at OptiLogic (2025-)
    - Solving MIPs for Supply Chain design problems.
 2. Ph.D in Algorithms, Combinatorics, and Optimization from Carnegie Mellon University's Tepper School of Business (2020-2025)
-   - Developed a novel discrete optimization method that performs well on large-scale vehicle routing problems. I was advised by [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html). These are the [slides](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx) from my dissertation defense.
+   - Researching models and methods for solving discrete optimization problems. I was advised by the amazing [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html).
 3. Quantiative Developer for Marshall Wace Asset Management (2017-2020)
    - Built a treasury optimization system and improved the automated trading system.
 4. B.S. in Applied Mathematics and Statistics from Johns Hopkins University (2014-2017)
    - Solved umpire crew scheduling problems for Minor League Baseball.
+
+Research:
+I am interested in comparing and constrasting the performance of different models and methods for solving discrete optimization problems. A few directions of interest:
+1. Model relaxations and exact methods. My Ph.D. research focused on a method called [Column Elimination](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx).
+   - My dissertation received the Gerald L. Thompson Doctoral Dissertation Award in Management Science for 2025.
+   - My paper is a finalist for the TSL Best Student Paper Award 2025.
+   - My paper was awarded Best Student Paper at CPAIOR in 2023.
+2. Computation. I am working on the first dyadic linear programming solver. I worked on a project that involved quantum computing.
+3. Algorithm portfolios. I published work that tried to allocate runtime to different heuristics with unknown performance.
 
 Fun things:
 1. I host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
