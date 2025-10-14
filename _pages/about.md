@@ -14,7 +14,7 @@ My journey:
 1. MIP Engineer at OptiLogic (2025-)
    - Solving MIPs for Supply Chain design problems.
 2. Ph.D in Algorithms, Combinatorics, and Optimization from Carnegie Mellon University's Tepper School of Business (2020-2025)
-   - Researching models and methods for solving discrete optimization problems. I was advised by the amazing [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html).
+   - Researched models and methods for solving discrete optimization problems. I was advised by the amazing [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html).
 3. Quantiative Developer for Marshall Wace Asset Management (2017-2020)
    - Built a treasury optimization system and improved the automated trading system.
 4. B.S. in Applied Mathematics and Statistics from Johns Hopkins University (2014-2017)
@@ -25,8 +25,12 @@ My research:
    - My dissertation received the Gerald L. Thompson Doctoral Dissertation Award in Management Science for 2025.
    - "Column Elimination: An Iterative Approach to Solving Arc Flow Formulations" is a finalist for the TSL Best Student Paper Award 2025.
    - "Column Elimination For Capacitated Vehicle Routing Problems" was awarded Best Student Paper at CPAIOR in 2023.
-2. Computation. I worked on a state-of-the-art SAT solver for the vertex coloring problem. I am working on the first dyadic linear programming solver. I worked on solving a network design problem using quantum computing.
-3. Algorithm portfolios. I published work that tried to allocate runtime to different heuristics with unknown performance.
+2. Computation.
+   - "From cliques to colorings and back again" develops a state-of-the-art SAT solver for the vertex coloring problem.
+   - "A Quantum-Inspired Bilevel Optimization Algorithm for the First Responder Network Design Problem" is a quantum approach to solving a network design problem.
+   - Work-in-progress "Computing a Nonnegative Dyadic Solution to a System of Linear Equations" is the first implementation of a dyadic linear programming solver.
+3. Algorithm portfolios.
+   - "Variable ordering for decision diagrams: A portfolio approach" tries to allocate limited runtime to several heuristics with unknown performance.
 
 Fun things:
 1. I host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
