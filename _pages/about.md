@@ -14,14 +14,14 @@ My journey:
 1. MIP Engineer at OptiLogic (2025-)
    - Solving MIPs for Supply Chain design problems.
 2. Ph.D in Algorithms, Combinatorics, and Optimization from Carnegie Mellon University's Tepper School of Business (2020-2025)
-   - Researched models and methods for solving discrete optimization problems. I was advised by the amazing [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html).
+   - Researched models and methods for solving discrete optimization problems. I was advised by the amazing [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html). [Dissertation slides](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx).
 3. Quantiative Developer for Marshall Wace Asset Management (2017-2020)
    - Built a treasury optimization system and improved the automated trading system.
 4. B.S. in Applied Mathematics and Statistics from Johns Hopkins University (2014-2017)
    - Solved umpire crew scheduling problems for Minor League Baseball.
 
 My research:
-1. Model relaxations and exact methods. My Ph.D. research focused on a method called [Column Elimination](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx).
+1. Model relaxations and exact methods.
    - My dissertation received the Gerald L. Thompson Doctoral Dissertation Award in Management Science for 2025.
    - "Column Elimination: An Iterative Approach to Solving Arc Flow Formulations" is a finalist for the TSL Best Student Paper Award 2025.
    - "Column Elimination For Capacitated Vehicle Routing Problems" was awarded Best Student Paper at CPAIOR in 2023.
