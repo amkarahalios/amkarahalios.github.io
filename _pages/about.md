@@ -20,13 +20,12 @@ My journey:
 4. B.S. in Applied Mathematics and Statistics from Johns Hopkins University (2014-2017)
    - Solved umpire crew scheduling problems for Minor League Baseball.
 
-Research:
-I am interested in comparing and constrasting the performance of different models and methods for solving discrete optimization problems. A few directions of interest:
+My research:
 1. Model relaxations and exact methods. My Ph.D. research focused on a method called [Column Elimination](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx).
    - My dissertation received the Gerald L. Thompson Doctoral Dissertation Award in Management Science for 2025.
-   - My paper is a finalist for the TSL Best Student Paper Award 2025.
-   - My paper was awarded Best Student Paper at CPAIOR in 2023.
-2. Computation. I am working on the first dyadic linear programming solver. I worked on a project that involved quantum computing.
+   - "Column Elimination: An Iterative Approach to Solving Arc Flow Formulations" is a finalist for the TSL Best Student Paper Award 2025.
+   - "Column Elimination For Capacitated Vehicle Routing Problems" was awarded Best Student Paper at CPAIOR in 2023.
+2. Computation. I worked on a state-of-the-art SAT solver for the vertex coloring problem. I am working on the first dyadic linear programming solver. I worked on solving a network design problem using quantum computing.
 3. Algorithm portfolios. I published work that tried to allocate runtime to different heuristics with unknown performance.
 
 Fun things:
