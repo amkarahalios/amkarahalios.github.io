@@ -22,29 +22,29 @@ My journey:
    - Solved umpire crew scheduling problems for Minor League Baseball.
 
 My research:
-1. Model relaxations and exact methods.[Dissertation slides](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx).
-   - My [dissertation](https://kilthub.cmu.edu/articles/thesis/Column_Elimination_Iterative_Refinement_for_Solving_Arc_Flow_Formulations/29414666) focused on developing a new exact method that computes dual bounds for large-scale discrete optimization problems with a particular form.
+1. Model relaxations and exact methods.
+   - My [dissertation](https://kilthub.cmu.edu/articles/thesis/Column_Elimination_Iterative_Refinement_for_Solving_Arc_Flow_Formulations/29414666) focused on developing a new exact method that computes dual bounds for large-scale discrete optimization problems with a particular form. [slides](https://amkarahalios.github.io/files/Karahalios-Dissertation-Defense-2025.pptx).
       - Gerald L. Thompson Doctoral Dissertation Award in Management Science (2025).
    - [Column Elimination: An Iterative Approach to Solving Arc Flow Formulations](https://www.andrew.cmu.edu/user/vanhoeve/papers/column_elimination.pdf)
-      - with Willem-Jan van Hoeve
-      - Major Revision at Operations Research
+      - With Willem-Jan van Hoeve.
+      - Major Revision at Operations Research.
       - Finalist for the TSL Best Student Paper Award (2025).
    - [Column Elimination For Capacitated Vehicle Routing Problems](https://par.nsf.gov/servlets/purl/10560260)
-      - with Willem-Jan van Hoeve
-      - Published in CPAIOR conference proceedings
-      - Best Student Paper at CPAIOR (2023).
+      - With Willem-Jan van Hoeve.
+      - Published in CPAIOR conference proceedings (2023).
+      - Best Student Paper at CPAIOR.
 2. Computation.
    - [From cliques to colorings and back again](https://par.nsf.gov/servlets/purl/10357179) develops a state-of-the-art SAT solver for the vertex coloring problem.
-      - with Marijn Heule and Willem-Jan van Hoeve
-      - Published in Constraint Programming conference proceedings
+      - With Marijn Heule and Willem-Jan van Hoeve.
+      - Published in Constraint Programming conference proceedings (2022).
    - [A Quantum-Inspired Bilevel Optimization Algorithm for the First Responder Network Design Problem](https://arxiv.org/pdf/2401.12463) is a quantum approach to solving a network design problem.
-      - with Sridhar Tayur, Ananth Tenneti, Amirreza Pashapour, Sibel Salman, and Baris Yildiz
-      - Published in INFORMS Journal on Computing journal
+      - With Sridhar Tayur, Ananth Tenneti, Amirreza Pashapour, Sibel Salman, and Baris Yildiz.
+      - Published in INFORMS Journal on Computing (2025).
    - Work-in-progress "Computing a Nonnegative Dyadic Solution to a System of Linear Equations" is the first implementation of a dyadic linear programming solver.
 3. Algorithm portfolios.
    - [Variable ordering for decision diagrams: A portfolio approach](https://par.nsf.gov/servlets/purl/10357176) tries to allocate limited runtime to several heuristics with unknown performance.
-      - with Willem-Jan van Hoeve
-      - Published in Constraints journal
+      - With Willem-Jan van Hoeve.
+      - Published in Constraints (2022).
 
 Fun things:
 1. I host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
