@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-I am setting up an ACT Prep Course in Pittsburgh, PA. For more information, checkout this [flyer](https://amkarahalios.github.io/files/ACT-prep-flyer.pdf)!
+I am setting up an ACT Prep Course in the north suburbs of Pittsburgh, PA.
+
+For more information, checkout this [flyer](https://amkarahalios.github.io/files/ACT-prep-flyer.pdf)!
