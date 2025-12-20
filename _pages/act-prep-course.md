@@ -4,7 +4,7 @@ title: "ACT Prep Course"
 permalink: /act-prep-course/
 author_profile: true
 redirect_from:
-  - /act-prep-course/
+  - /act-prep/
 ---
 
 {% include base_path %}
