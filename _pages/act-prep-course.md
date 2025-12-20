@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "ACT-Course-Prep"
-permalink: /act-course-prep/
+title: "ACT Prep Course"
+permalink: /act-prep-course/
 author_profile: true
 redirect_from:
-  - /act-course-prep
+  - /act-prep-course/
 ---
 
 {% include base_path %}
