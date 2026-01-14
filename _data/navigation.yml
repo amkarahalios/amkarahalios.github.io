@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
  
-  - title: "ACT Prep Course"
-    url: /act-prep-course/
+  #- title: "ACT Prep Course"
+  #  url: /act-prep-course/
  
   #- title: "Guide"
   #  url: /markdown/
