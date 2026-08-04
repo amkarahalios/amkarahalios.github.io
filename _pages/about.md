@@ -48,13 +48,15 @@ My research:
       - Published in Constraints (2022).
 
 Fun things:
-1. I won a charity competition at Marshall Wace to support the [All Stars Project Development School for Youth](https://allstars.org/our-work/programs/development-school-for-youth/).
-2. I am a former president of the [CMU INFORMS Student Chapter](https://cmuinforms.org/) and former chair of the student-run [YinzOR Conference](https://yinzor.cmuinforms.org/program/).
-3. I am a former president of the [Hopkins Undergraduate Society of Applied Mathematics](https://engineering.jhu.edu/ams/academics/undergraduate-studies/hopkins-undergraduate-society-for-applied-mathematics-husam/).
-4. I recently completed my first triathlon.
-5. I used to work as a freelancer solving optimization problems on [Upwork.com](https://www.upwork.com/freelancers/~019b8adcf84c4cd492?mp_source=share). Some projects involved staffing nurses in hospitals, scheduling youth basketball leagues, and planning construction projects!
-6. I used to host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
-7. I used to be a math tutor for local high school students.
+1. I won a [3.5+ Pickleball Tournament](https://dashboard.dupr.com/dashboard/player/5047190762) with my pal Daniel Yamin.
+2. I won two [Chess Tournaments](https://ratings.uschess.org/player/32841180) near Pittsburgh before moving to Monterey.
+3. I won a charity competition while working at Marshall Wace to support the [All Stars Project Development School for Youth](https://allstars.org/our-work/programs/development-school-for-youth/).
+4. I am a former president of the [CMU INFORMS Student Chapter](https://cmuinforms.org/) and former chair of the student-run [YinzOR Conference](https://yinzor.cmuinforms.org/program/).
+5. I am a former president of the [Hopkins Undergraduate Society of Applied Mathematics](https://engineering.jhu.edu/ams/academics/undergraduate-studies/hopkins-undergraduate-society-for-applied-mathematics-husam/).
+6. I recently completed my first triathlon.
+7. I used to work as a freelancer solving optimization problems on [Upwork.com](https://www.upwork.com/freelancers/~019b8adcf84c4cd492?mp_source=share). Some projects involved staffing nurses in hospitals, scheduling youth basketball leagues, and planning construction projects!
+8. I used to host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
+9. I used to be a math tutor for local high school students.
 
 Checkout my [CV](https://amkarahalios.github.io/files/CV.pdf).
 
