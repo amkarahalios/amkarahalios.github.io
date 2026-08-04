@@ -50,10 +50,10 @@ My research:
 Fun things:
 1. I won a [3.5+ Pickleball Tournament](https://dashboard.dupr.com/dashboard/player/5047190762) with my pal Daniel Yamin.
 2. I won two [Chess Tournaments](https://ratings.uschess.org/player/32841180) near Pittsburgh before moving to Monterey.
-3. I won a charity competition while working at Marshall Wace to support the [All Stars Project Development School for Youth](https://allstars.org/our-work/programs/development-school-for-youth/).
-4. I am a former president of the [CMU INFORMS Student Chapter](https://cmuinforms.org/) and former chair of the student-run [YinzOR Conference](https://yinzor.cmuinforms.org/program/).
-5. I am a former president of the [Hopkins Undergraduate Society of Applied Mathematics](https://engineering.jhu.edu/ams/academics/undergraduate-studies/hopkins-undergraduate-society-for-applied-mathematics-husam/).
-6. I recently completed my first triathlon.
+3. I recently completed my first [Triathlon](https://runsignup.com/Race/Results/137340/?resultSetId=551126#resultSetId-551126;perpage:100).
+4. I won a charity competition while working at Marshall Wace to support the [All Stars Project Development School for Youth](https://allstars.org/our-work/programs/development-school-for-youth/).
+5. I am a former president of the [CMU INFORMS Student Chapter](https://cmuinforms.org/) and former chair of the student-run [YinzOR Conference](https://yinzor.cmuinforms.org/program/).
+6. I am a former president of the [Hopkins Undergraduate Society of Applied Mathematics](https://engineering.jhu.edu/ams/academics/undergraduate-studies/hopkins-undergraduate-society-for-applied-mathematics-husam/).
 7. I used to work as a freelancer solving optimization problems on [Upwork.com](https://www.upwork.com/freelancers/~019b8adcf84c4cd492?mp_source=share). Some projects involved staffing nurses in hospitals, scheduling youth basketball leagues, and planning construction projects!
 8. I used to host a podcast called [Optimizing You](https://www.buzzsprout.com/1890697).
 9. I used to be a math tutor for local high school students.
