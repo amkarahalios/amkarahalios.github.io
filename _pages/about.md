@@ -12,7 +12,7 @@ I am an Assistant Professor in the Operations Research Department at the Naval P
 
 My journey:
 1. Assistant Professor in the Operations Research Department at the Naval Postgraduate School (2026-)
-2. MIP Engineer at OptiLogic (2025-2026)
+2. MIP Engineer at Optilogic (2025-2026)
    - Solving MIPs for Supply Chain design problems.
 3. Ph.D in Algorithms, Combinatorics, and Optimization from Carnegie Mellon University's Tepper School of Business (2020-2025)
    - Researched models and methods for solving discrete optimization problems. I was advised by the amazing [Willem-Jan van Hoeve](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/van-hoeve-willem-jan.html).
@@ -42,7 +42,7 @@ My research:
       - With Sridhar Tayur, Ananth Tenneti, Amirreza Pashapour, Sibel Salman, and Baris Yildiz.
       - Published in INFORMS Journal on Computing (2025).
    - Work-in-progress "Computing a Nonnegative Dyadic Solution to a System of Linear Equations" is the first implementation of a dyadic linear programming solver.
-3. Algorithm portfolios.
+3. Algorithm Portfolios.
    - [Variable ordering for decision diagrams: A portfolio approach](https://par.nsf.gov/servlets/purl/10357176) tries to allocate limited runtime to several heuristics with unknown performance.
       - With Willem-Jan van Hoeve.
       - Published in Constraints (2022).
