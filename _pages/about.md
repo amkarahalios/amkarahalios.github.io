@@ -28,7 +28,7 @@ My research:
       - Gerald L. Thompson Doctoral Dissertation Award in Management Science (2025).
    - [Column Elimination: An Iterative Approach to Solving Arc Flow Formulations](https://www.andrew.cmu.edu/user/vanhoeve/papers/column_elimination.pdf)
       - With Willem-Jan van Hoeve.
-      - Major Revision at Operations Research.
+      - Minor Revision at Operations Research.
       - Finalist for the TSL Best Student Paper Award (2025).
    - [Column Elimination For Capacitated Vehicle Routing Problems](https://par.nsf.gov/servlets/purl/10560260)
       - With Willem-Jan van Hoeve.
